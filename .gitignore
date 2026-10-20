@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.pytest_cache/
+
+# Next.js / Web
+web/.next/
+web/node_modules/
+web/out/
+
+# Environment
+.env
+.env.local
+.env.*.local
