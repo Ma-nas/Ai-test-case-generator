@@ -18,3 +18,5 @@ web/out/
 .env
 .env.local
 .env.*.local
+
+deploy.ps1
